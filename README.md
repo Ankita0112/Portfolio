@@ -63,7 +63,7 @@ My portfolio website blends interactive design with a professional, user-friendl
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ankita0112/portfolio.git
+   git clone https://github.com/Ankita0112/Portfolio.git
    ```
    
 2. **Install dependencies**:
@@ -82,5 +82,5 @@ My portfolio website blends interactive design with a professional, user-friendl
 
 Made With Love 🧡
 
-©2024 Ankita’s Portfolio. All rights reserved.
+©2025 Ankita’s Portfolio. All rights reserved.
 # Portfolio
