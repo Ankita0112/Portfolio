@@ -100,7 +100,7 @@ export const projects = [
 			// "/icons/scikit-learn.svg",
 			// "/icons/seaborn.svg",
 		],
-		link: "https://github.com/Ankita0112/Movie-review-analysis",
+		link: "https://github.com/Ankita0112/Encrypted-Chat",
 	},
 	// {
 	// 	id: 2,
